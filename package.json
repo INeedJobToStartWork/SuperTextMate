@@ -1,5 +1,5 @@
 {
-  "name": "@monorepo/let-me-test",
+  "name": "@monorepo/undefined",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -51,5 +51,14 @@
   "engines": {
     "node": ">=26"
   },
-  "packageManager": "pnpm@12.14.0"
+  "packageManager": "pnpm@12.14.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/INeedJobToStartWork/SuperTextMate.git"
+  },
+  "author": "INeedJobToStartWork",
+  "bugs": {
+    "url": "https://github.com/INeedJobToStartWork/SuperTextMate/issues"
+  },
+  "homepage": "https://github.com/INeedJobToStartWork/SuperTextMate#readme"
 }
